@@ -44,7 +44,7 @@ Sorting Visualizer is a visualization tool for understanding different sorting a
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/ikapilsharma/sorting-visualizer-project.git
-    cd sorting-visualizer
+    cd sorting-visualizer-project
     ```
 
 2. **Install SDL2**:
